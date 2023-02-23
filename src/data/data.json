@@ -1,0 +1,264 @@
+{
+    "feedType": {
+        "Equine": [
+            {
+                "id": "e1",
+                "name": "12% Horse",
+                "description": "12% protein horse feed",
+                "price": "$20.75"
+            },
+            {
+                "id": "e2",
+                "name": "Alfalfa Pellets",
+                "description": "Compressed alfalfa hay",
+                "price": "$24.25"
+            },
+            {
+                "id": "e3",
+                "name": "Beet Pulp",
+                "description": "Pelletized beet pulp",
+                "price": "$21.50"
+            },
+            {
+                "id": "e4",
+                "name": "Wet COB",
+                "description": "Rolled corn, oats and barley mixed with molasses",
+                "price": "$21.25"
+            },
+            {
+                "id": "e5",
+                "name": "Dry COB",
+                "description": "Rolled corn, oats and barley",
+                "price": "$21.25"
+            },
+            {
+                "id": "e6",
+                "name": "Mare and Foal",
+                "description": "Specialty supplement for nursing mares and foals",
+                "price": "$21.75"
+            },
+            {
+                "id": "e7",
+                "name": "Mountaineer",
+                "description": "High performance trail horse grain",
+                "price": "$22.25"
+            },
+            {
+                "id": "e8",
+                "name": "Rice Bran",
+                "description": "Natural source of fiber and magnesium",
+                "price": "$25.00"
+            },
+            {
+                "id": "e9",
+                "name": "Rolled Oats",
+                "description": "Rolled oats",
+                "price": "$23.00"
+            },
+            {
+                "id": "e10",
+                "name": "Senior Horse",
+                "description": "Specialty feed for senior horses",
+                "price": "$23.25"
+            },
+            {
+                "id": "e11",
+                "name": "Sterling Horse",
+                "description": "For moderately active horses",
+                "price": "$21.75"
+            },
+            {
+                "id": "e12",
+                "name": "Wheat Bran",
+                "description": "Natural source of fiber",
+                "price": "$20.00"
+            }
+        ],
+        "Cattle": [
+            {
+                "id": "c1",
+                "name": "16% Dairy",
+                "description": "16% protein dairy cow feed",
+                "price": "$20.00"
+            },
+            {
+                "id": "c2",
+                "name": "BYB",
+                "description": "Barn yard buffet (all stock feed)",
+                "price": "$18.25"
+            },
+            {
+                "id": "c3",
+                "name": "Cattle Fattener",
+                "description": "Used to put weight on cattle",
+                "price": "$20.50"
+            },
+            {
+                "id": "c4",
+                "name": "Chris Mix",
+                "description": "",
+                "price": "$20.25"
+            },
+            {
+                "id": "c5",
+                "name": "Med Calf",
+                "description": "Medicated calf feed",
+                "price": "$23.00"
+            }
+        ],
+        "Straight Grains": [
+            {
+                "id": "g1",
+                "name": "Rolled Barley",
+                "description": "Rolled barley",
+                "price": "$20.00"
+            },
+            {
+                "id": "g2",
+                "name": "Rolled Corn",
+                "description": "Rolled corn",
+                "price": "$20.00"
+            },
+            {
+                "id": "g3",
+                "name": "Soybean Meal",
+                "description": "Natural source of protein",
+                "price": "$28.00"
+            },
+            {
+                "id": "g4",
+                "name": "Whole Barley",
+                "description": "Whole barley",
+                "price": "$19.75"
+            },
+            {
+                "id": "g5",
+                "name": "Whole Corn",
+                "description": "Whole corn",
+                "price": "$19.75"
+            },
+            {
+                "id": "g6",
+                "name": "Whole Oats",
+                "description": "Whole oats",
+                "price": "$22.50"
+            },
+            {
+                "id": "g7",
+                "name": "Whole Wheat",
+                "description": "Whole wheat",
+                "price": "$21.25"
+            }
+        ],
+        "Poultry": [
+            {
+                "id": "p1",
+                "name": "All Purpose",
+                "description": "All purpose poultry feed",
+                "price": "$21.75"
+            },
+            {
+                "id": "p2",
+                "name": "Broiler Grower",
+                "description": "High protein feed for meat poultry",
+                "price": "$25.00"
+            },
+            {
+                "id": "p3",
+                "name": "Chick Start",
+                "description": "Medicated and non-medicated chick start",
+                "price": "$23.00"
+            },
+            {
+                "id": "p4",
+                "name": "Cracked Corn",
+                "description": "Cracked corn",
+                "price": "$20.50"
+            },
+            {
+                "id": "p5",
+                "name": "Fowl Power",
+                "description": "Mixed grain poultry feed",
+                "price": "$21.75"
+            },
+            {
+                "id": "p6",
+                "name": "Game Bird",
+                "description": "High protein game bird feed (pellet and crumble available)",
+                "price": "$25.00"
+            },
+            {
+                "id": "p7",
+                "name": "Layer Ration Complete",
+                "description": "Egg Layer blend (pellet and crumble available)",
+                "price": "$21.00"
+            },
+            {
+                "id": "p8",
+                "name": "Oyster Shell",
+                "description": "Crushed oyster shells",
+                "price": "$24.00"
+            },
+            {
+                "id": "p9",
+                "name": "Two Way Scratch",
+                "description": "Cracked corn and barley",
+                "price": "$21.00"
+            }
+        ],
+        "Rabbit": [
+            {
+                "id": "r1",
+                "name": "16% Rabbit",
+                "description": "16% protein rabbit feed",
+                "price": "$22.50"
+            },
+            {
+                "id": "r2",
+                "name": "18% Rabbit",
+                "description": "18% protein rabbit feed",
+                "price": "$23.75"
+            }
+        ],
+        "Sheep and Goat": [
+            {
+                "id": "sg1",
+                "name": "16% Sheep",
+                "description": "16% protein sheep feed",
+                "price": "$22.50"
+            },
+            {
+                "id": "sg2",
+                "name": "Goat Pellet",
+                "description": "General goat feed",
+                "price": "$22.25"
+            },
+            {
+                "id": "sg3",
+                "name": "Sheep and Goat",
+                "description": "Standardized sheep and goat feed",
+                "price": "$21.50"
+            }
+        ],
+        "Swine": [
+            {
+                "id": "s1",
+                "name": "14% Hog",
+                "description": "14% protein hog feed",
+                "price": "$21.00"
+            },
+            {
+                "id": "s2",
+                "name": "16% Hog",
+                "description": "16% protein hog feed",
+                "price": "$22.00"
+            },
+            {
+                "id": "s3",
+                "name": "18% Pig Starter",
+                "description": "18% protein piglet starter",
+                "price": "$24.25"
+            }
+        ]
+    }
+}
